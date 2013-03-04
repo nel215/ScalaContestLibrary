@@ -1,2 +1,9 @@
-config/site.php
-files/cache/*
+*.class
+
+# Eclipse specific
+.cache
+.metadata
+.settings
+
+# Scala-IDE specific
+.scala_dependencies
